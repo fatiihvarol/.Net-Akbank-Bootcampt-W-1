@@ -1,0 +1,32 @@
+C:\Users\fatih\source\repos\Web Api User Management\Web Api User Management\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\fatih\source\repos\Web Api User Management\Web Api User Management\bin\Debug\net8.0\appsettings.json
+C:\Users\fatih\source\repos\Web Api User Management\Web Api User Management\bin\Debug\net8.0\Web Api User Management.exe
+C:\Users\fatih\source\repos\Web Api User Management\Web Api User Management\bin\Debug\net8.0\Web Api User Management.deps.json
+C:\Users\fatih\source\repos\Web Api User Management\Web Api User Management\bin\Debug\net8.0\Web Api User Management.runtimeconfig.json
+C:\Users\fatih\source\repos\Web Api User Management\Web Api User Management\bin\Debug\net8.0\Web Api User Management.dll
+C:\Users\fatih\source\repos\Web Api User Management\Web Api User Management\bin\Debug\net8.0\Web Api User Management.pdb
+C:\Users\fatih\source\repos\Web Api User Management\Web Api User Management\bin\Debug\net8.0\Microsoft.OpenApi.dll
+C:\Users\fatih\source\repos\Web Api User Management\Web Api User Management\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\fatih\source\repos\Web Api User Management\Web Api User Management\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\fatih\source\repos\Web Api User Management\Web Api User Management\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\fatih\source\repos\Web Api User Management\Web Api User Management\obj\Debug\net8.0\Web Api User Management.csproj.AssemblyReference.cache
+C:\Users\fatih\source\repos\Web Api User Management\Web Api User Management\obj\Debug\net8.0\Web Api User Management.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\fatih\source\repos\Web Api User Management\Web Api User Management\obj\Debug\net8.0\Web Api User Management.AssemblyInfoInputs.cache
+C:\Users\fatih\source\repos\Web Api User Management\Web Api User Management\obj\Debug\net8.0\Web Api User Management.AssemblyInfo.cs
+C:\Users\fatih\source\repos\Web Api User Management\Web Api User Management\obj\Debug\net8.0\Web Api User Management.csproj.CoreCompileInputs.cache
+C:\Users\fatih\source\repos\Web Api User Management\Web Api User Management\obj\Debug\net8.0\Web Api User Management.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\fatih\source\repos\Web Api User Management\Web Api User Management\obj\Debug\net8.0\Web Api User Management.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\fatih\source\repos\Web Api User Management\Web Api User Management\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\fatih\source\repos\Web Api User Management\Web Api User Management\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\fatih\source\repos\Web Api User Management\Web Api User Management\obj\Debug\net8.0\staticwebassets\msbuild.Web Api User Management.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\fatih\source\repos\Web Api User Management\Web Api User Management\obj\Debug\net8.0\staticwebassets\msbuild.build.Web Api User Management.props
+C:\Users\fatih\source\repos\Web Api User Management\Web Api User Management\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.Web Api User Management.props
+C:\Users\fatih\source\repos\Web Api User Management\Web Api User Management\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.Web Api User Management.props
+C:\Users\fatih\source\repos\Web Api User Management\Web Api User Management\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\fatih\source\repos\Web Api User Management\Web Api User Management\obj\Debug\net8.0\scopedcss\bundle\Web Api User Management.styles.css
+C:\Users\fatih\source\repos\Web Api User Management\Web Api User Management\obj\Debug\net8.0\Web Api User Management.csproj.CopyComplete
+C:\Users\fatih\source\repos\Web Api User Management\Web Api User Management\obj\Debug\net8.0\Web Api User Management.dll
+C:\Users\fatih\source\repos\Web Api User Management\Web Api User Management\obj\Debug\net8.0\refint\Web Api User Management.dll
+C:\Users\fatih\source\repos\Web Api User Management\Web Api User Management\obj\Debug\net8.0\Web Api User Management.pdb
+C:\Users\fatih\source\repos\Web Api User Management\Web Api User Management\obj\Debug\net8.0\Web Api User Management.genruntimeconfig.cache
+C:\Users\fatih\source\repos\Web Api User Management\Web Api User Management\obj\Debug\net8.0\ref\Web Api User Management.dll

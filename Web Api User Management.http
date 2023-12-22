@@ -1,0 +1,6 @@
+@Web_Api_User_Management_HostAddress = http://localhost:5032
+
+GET {{Web_Api_User_Management_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
